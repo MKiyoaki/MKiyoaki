@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MKiyoaki
-- 👀 I’m interested in Computer Science and Machine Learning. 
-- 🌱 I’m currently a student at King's College London. 
-- 📫 How to reach me: yifei.shi@kcl.ac.uk
+- 👀 I’m interested in Artificial Intelligence and its applications. 
+- 🌱 I’m currently an UG student at King's College London. 
+- 📫 How to reach me: yifeishi.1224@gmail.com
 
 <!--
 **MKiyoaki/MKiyoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
