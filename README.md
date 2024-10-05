@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MKiyoaki
-- 👀 I’m interested in Artificial Intelligence and its applications. 
+- 👀 I’m interested in Robotics, Multimodal learning and Explainable AI. 
 - 🌱 I’m currently an UG student at King's College London. 
 - 📫 How to reach me: yifeishi.1224@gmail.com
 
